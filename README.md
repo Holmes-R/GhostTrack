@@ -47,7 +47,5 @@ Display on the menu ```Username Tracker```
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
 on this menu you can search for information from the target username on social media
 
-<details>
-<summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
-</details>
+
+
